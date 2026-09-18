@@ -1,0 +1,103 @@
+@charset "utf-8" ;
+
+
+
+
+
+
+
+body {
+
+  background-image: url(imagenes/fondo.png);
+
+  
+
+}
+
+
+
+/* 2. Contenedor principal */
+
+main {
+
+  width: 1004px;
+
+  height: 658px;
+
+  margin: auto;
+
+}
+
+
+
+/* 3. Colores y relleno para el Encabezado (Header) */
+
+header {
+
+  height: 128px ;
+
+  background-color: #f3c;
+
+
+
+}
+
+
+
+/* 4. Barra de navegación */
+
+nav {
+
+  height: 340px;
+
+  background-color: #960;
+
+}
+
+
+
+
+
+/* 5. Sección de artículos */
+
+article {
+
+  width: 652px;
+
+  height: 662px;
+
+  background-color: #FFF;
+
+  float: left
+
+}
+
+
+
+/* 6. Barra lateral (Aside) */
+
+aside {
+
+  width: 352px;
+
+  height: 662px;
+
+  background-color: #FC0;
+
+  float: left
+
+}
+
+
+
+/* 7. Pie de página (Footer) */
+
+footer {
+
+  height: 243px;
+
+  background-color: #F3c;
+
+  clear: both
+
+}
