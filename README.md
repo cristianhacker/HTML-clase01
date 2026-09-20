@@ -6,9 +6,9 @@
 -  Caso practico 03
 ### LINK del Caso Practico 01:
 https://cristianhacker.github.io/HTML-clase01/clase01fronted/caso01
-#### LINK del Caso Practico 02:
+### LINK del Caso Practico 02:
 https://cristianhacker.github.io/HTML-clase01/clase01fronted/
-#### lINK del Caso Practico 03:
+### LINK del Caso Practico 03:
 https://cristianhacker.github.io/HTML-clase01/clase01fronted/caso3
 
 
