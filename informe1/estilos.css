@@ -21,6 +21,11 @@ header h1 {
     height: 25px;
     margin:  5px;
 }
+#banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
 .menuH {
     display: flex;
     justify-content: center;
