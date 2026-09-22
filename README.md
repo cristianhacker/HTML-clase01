@@ -11,7 +11,7 @@ https://cristianhacker.github.io/HTML-clase01/clase01fronted/caso1
 https://cristianhacker.github.io/HTML-clase01/clase01fronted/
 ### LINK del Caso Practico 03:
 https://cristianhacker.github.io/HTML-clase01/clase01fronted/caso3/caso03
-##LINK del Informe 01:
+## LINK del Informe 01:
 https://cristian-chunga.netlify.app
 
 
