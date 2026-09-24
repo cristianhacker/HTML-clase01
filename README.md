@@ -1,4 +1,4 @@
-# HTML- Clase01
+# HTML - Semana 1
  Repositorio correspondiente a las actividades de la asignatura Frontend Developer Web.
 ## Actividades de la Clase 01:
 -  Caso practico 01
